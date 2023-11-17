@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zuiho
 - 👀 I’m interested in animation,jpop music and vtuber.
-- 🌱 I’m currently an undergrauate in China and my major is Computer Science and Technology.
+- 🌱 I’m currently an postgrauate in China and my major is Computer Science and Technology.
 - 📫 How to reach me: https://space.bilibili.com/6195521
 
 <!---
